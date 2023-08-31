@@ -9,7 +9,7 @@ The "Python Projects" repository is designed to provide a platform for individua
 This repository houses an array of Python projects that span diverse domains and applications. Here's a glimpse of the types of projects you'll find:
 
 - Chat_Application
-- 
+- Image_Classification
 - Pokemon_Capture
 
 ## Contributing
